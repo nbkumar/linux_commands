@@ -36,3 +36,8 @@ alias dosource 'source /usr2/nbt/.cshrc.local'
 alias gorumish 'cd /prj/vlsi/vlsi_verify/vi_talos/users/c_rumish/c_rumish_talos_QSPI_2/vi_qspi/integ/qspi/ASIC/'
 alias gocshrc 'gvim /usr2/nbt/.cshrc.local'
 alias grep 'grep -irn --color' 
+
+-------------------
+find a directory:
+find . -type d -name 'd1' -ls 
+--------------------------
